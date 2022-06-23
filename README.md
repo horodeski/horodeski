@@ -2,8 +2,8 @@
 ##
 <div align="center">
   <a href="https://github.com/geossophia">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geossophia&&show_icons=true&title_color=508d4c&icon_color=508d4c&text_color=daf7dc&bg_color=151515"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geossophia&layout=compact&langs_count=7&&title_color=508d4c&icon_color=508d4c&text_color=daf7dc&bg_color=151515"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geossophia&&show_icons=true&title_color=508d4c&icon_color=508d4c&text_color=508d4c&bg_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geossophia&layout=compact&langs_count=7&&title_color=508d4c&icon_color=508d4c&text_color=508d4c&bg_color=ffffff"/>
 </div>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="David-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
