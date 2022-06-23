@@ -1,4 +1,4 @@
-### Olá mundo 👋
+### document.write("Olá mundo!") 👋
 ##
 <div align="center">
   <a href="https://github.com/geossophia">
