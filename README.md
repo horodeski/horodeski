@@ -1,7 +1,7 @@
 ### document.write("Olá mundo!") 👋
 ##
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geossophia&layout=compact&langs_count=7&&title_color=508d4c&icon_color=508d4c&text_color=508d4c&bg_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geossophia&layout=compact&langs_count=7&&title_color=d2cd22&icon_color=d2cd22&text_color=d2cd22&bg_color=ffffff"/>
 </p>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="David-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
