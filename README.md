@@ -11,6 +11,5 @@
   <img align="center" alt="Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" alt="Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="VueJs" height="30" width="40" src="https://icongr.am/devicon/vuejs-original.svg?size=128&color=currentColor" />
-  <img align="center" alt="Sass" height="30" width="40" src="https://icongr.am/devicon/sass-original.svg?size=128&color=currentColor" />
 </div>
   
