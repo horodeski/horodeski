@@ -1,15 +1,14 @@
 ### document.write("Olá mundo!") 👋
-##
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geossophia&layout=compact&langs_count=7&&title_color=d2cd22&icon_color=d2cd22&text_color=d2cd22&bg_color=ffffff"/>
-</p>
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  <img align="center" alt="Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img align="center" alt="Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="center" alt="VueJs" height="30" width="40" src="https://icongr.am/devicon/vuejs-original.svg?size=128&color=currentColor" />
-</div>
-  
+[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=geossophia&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan#gh-dark-mode-only)
+[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=geossophia&show_icons=true">](https://metrics.lecoq.io/ouuan#gh-light-mode-only)
+
+Olá, tudo bem? Me chamo Geovana e faço curso técnico em informática para internet.
+
+-   :hammer_and_pick: Css e Sass / JavaScript / Vue 
+-   :heart: FrontEnd
+-   :woman: Pronomes: ela/dela
+-   :thought_balloon: Me siga no [Twitter](https://twitter.com/_horodeski)!
+<!--
+-   :key: GPG key: [`863A0F9FA8127FA4`](https://github.com/ouuan.gpg)
+
+-->
