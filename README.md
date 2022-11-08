@@ -1,6 +1,6 @@
 ### document.write("Olá mundo!") 👋
-[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=geossophia&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan#gh-dark-mode-only)
-[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=geossophia&show_icons=true">](https://metrics.lecoq.io/ouuan#gh-light-mode-only)
+[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=horodeski&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan#gh-dark-mode-only)
+[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=horodeski&show_icons=true">](https://metrics.lecoq.io/ouuan#gh-light-mode-only)
 
 Olá, tudo bem? Me chamo Geovana e faço curso técnico em informática para internet.
 
