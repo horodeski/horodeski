@@ -44,12 +44,10 @@
         <!-- Django -->
         <a href="https://github.com/ShahriarShafin?tab=horodeski" target="_blank"><img alt="Django"
                         src="https://img.shields.io/badge/-Django-0e3f2e?style=flat-square&logo=Django&logoColor=white">
-        </a> <!--
-       <div align="center">
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31uegcan2vglrpd5sthhlnuw6ene&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31uegcan2vglrpd5sthhlnuw6ene&cover_image=true&theme=natemoo-re&show_offline=false&background_color=ffffff&bar_color=53b14f&bar_color_cover=true)]]
-       </div> -->
-</p>
+        </a> 
+                
 
+</p>                
 <!-- Details Section-->
 <details align="center">
     <summary> <samp>&#9776; Mais</samp></summary>
@@ -74,10 +72,7 @@
 <br>
 
 <!-- Footer -->
-<samp>
-    <p align="center">
-        ════ ⋆★⋆ ════
-        <br>
-        👨‍💻
-    </p>
-</samp>
+&nbsp;<div align="center">
+        ![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=31uegcan2vglrpd5sthhlnuw6ene&cover_image=false&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)
+
+</div>
