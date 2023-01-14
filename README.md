@@ -2,9 +2,6 @@
 <!-- April 15, 2021 -->
 <!-- LEAVE A STAR, IF YOU LIKE IT ! -->
 
-<!-- Profile Views Counter -->
-![Profile views](https://gpvc.arturio.dev/horodeski?v=3)
-
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Olá, tudo bem? Eu sou
@@ -76,3 +73,5 @@
         ![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=31uegcan2vglrpd5sthhlnuw6ene&cover_image=false&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)
 
 </div>
+
+![Profile views](https://gpvc.arturio.dev/horodeski?v=3)
