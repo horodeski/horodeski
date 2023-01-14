@@ -47,7 +47,7 @@
 </p>                
 <!-- Details Section-->
 <details align="center">
-    <summary> <samp>&#9776; Mais</samp></summary>
+    <summary><samp>&#9776; Ver Mais</samp></summary>
     <p align="center">
         <br>
         <!-- Activity Widget -->
