@@ -1,5 +1,5 @@
 ### document.write("Olá mundo!") 👋
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=horodeski&layout=compact&langs_count=7&&title_color=475B47&icon_color=475B47&text_color=475B47&bg_color=ffffff">
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=horodeski&layout=compact&langs_count=7&&title_color=560d0a&icon_color=560d0a&text_color=560d0a&bg_color=ffffff">
 
 Olá, tudo bem? Me chamo Geovana e faço curso técnico em informática para internet.
 
