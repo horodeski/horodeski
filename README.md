@@ -44,29 +44,26 @@
         </a> 
                 
 
-</p>                
-<!-- Details Section-->
+</p>  
+<!--              
 <details align="center">
     <summary><samp>&#9776; Ver Mais</samp></summary>
     <p align="center">
         <br>
-        <!-- Activity Widget -->
         <img alt="horodeski's GitHub Stats"
                 src="https://github-readme-stats.vercel.app/api?username=horodeski&show_icons=true&theme=dark" />
         <br>
-        <!-- Social Links -->
         <p>Me encontre em</p>
-        <!-- Gmail -->
         <a href="geovana.horodeski06@gmail.com" target="_blank"><img alt="Gmail"
                 src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
         </a>
-        <!-- Twitter -->
         <a href="https://twitter.com/_horodeski" target="_blank"><img alt="Twitter"
                 src="https://img.shields.io/badge/-Twitter-1877F2?style=flat-square&logo=Twitter&logoColor=white">
         </a>
     </p>
 </details>
-        
+ -->
+                
 &nbsp;<div align="center">
           [![Spotify](https://novatorem-37uazhi5j-horodeski.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31uegcan2vglrpd5sthhlnuw6ene)
 </div>
