@@ -66,12 +66,9 @@
         </a>
     </p>
 </details>
-<br>
-
-<!-- Footer -->
+        
 &nbsp;<div align="center">
-        ![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=31uegcan2vglrpd5sthhlnuw6ene&cover_image=false&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)
-
+          [![Spotify](https://novatorem-37uazhi5j-horodeski.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31uegcan2vglrpd5sthhlnuw6ene)
 </div>
 
 ![Profile views](https://gpvc.arturio.dev/horodeski?v=3)
