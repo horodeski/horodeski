@@ -32,6 +32,9 @@
         <a href="https://github.com/horodeski?tab=repositories" target="_blank"><img alt="JavaScript"
                         src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
         </a>
+        <a href="https://github.com/horodeski?tab=repositories" target="_blank"><img alt="Sass"
+                        src="https://img.shields.io/badge/-SASS-FF1493?style=flat-square&logo=sass&logoColor=white">
+        </a>
         <!-- Python -->
         <a href="https://github.com/horodeski?tab=repositories" target="_blank"><img alt="Python"
                         src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white">
