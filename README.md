@@ -5,7 +5,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Olá, tudo bem? Eu sou
-                <b><a target="_blank" href="https://geovana-horodeski.vercel.app/">Geovana Sophia Horodeski</a></b>
+                <b><a target="_blank" href="https://github.com/horodeski">Geovana Sophia Horodeski</a></b>
         </samp>
 </h3>
 <br>
