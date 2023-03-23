@@ -13,7 +13,7 @@
 <p align="center">
         <!-- Organisation  -->
         <samp>
-                「 Pretendo me tornar um desenvolvedor FullStack 」
+                「 Pretendo me tornar uma desenvolvedora FullStack 」
                 <br>
                 「 "Detalhes importam, vale a pena esperar e fazê-los direito", <b>Steve Jobs</b> 」
                 <br>
