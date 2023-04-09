@@ -66,9 +66,5 @@
     </p>
 </details>
  -->
-                
-&nbsp;<div align="center">
-          [![Spotify](https://novatorem-37uazhi5j-horodeski.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31uegcan2vglrpd5sthhlnuw6ene)
-</div>
 
 ![Profile views](https://gpvc.arturio.dev/horodeski?v=3)
