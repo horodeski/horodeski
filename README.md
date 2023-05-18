@@ -1,8 +1,5 @@
-<!-- https://github.com/ShahriarShafin/ -->
-<!-- April 15, 2021 -->
-<!-- LEAVE A STAR, IF YOU LIKE IT ! -->
+<img src="image.png" />
 
-<!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Olá, tudo bem? Eu sou
                 <b><a target="_blank" href="https://github.com/horodeski">Geovana Sophia Horodeski</a></b>
