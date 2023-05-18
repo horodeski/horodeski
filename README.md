@@ -5,13 +5,8 @@
                 <b><a target="_blank" href="https://github.com/horodeski">Geovana Sophia Horodeski</a></b>
         </samp>
 </h3>
-<br>
-
 <p align="center">
-        <!-- Organisation  -->
         <samp>
-                「 Pretendo me tornar uma desenvolvedora FullStack 」
-                <br>
                 「 "Detalhes importam, vale a pena esperar e fazê-los direito", <b>Steve Jobs</b> 」
                 <br>
                 <br>
