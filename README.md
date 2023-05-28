@@ -1,4 +1,3 @@
-<img src="image.png" />
 
 <h3 align="center">
         <samp>&gt; Olá, tudo bem? Eu sou
