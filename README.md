@@ -16,10 +16,8 @@ const developer = [
     },
   },
 ];
-
 </script>
 ```
-
 </pre>
 </div>
 
