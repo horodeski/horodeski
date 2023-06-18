@@ -1,5 +1,4 @@
 
-<div align="center"><br><h2><b>👋 Olá, tudo bem? </b></h2></div><br>
 <div align="flex">
 <pre>
 <p align="center"><a href="#"><img src="imgs/window-icons.png" width=40px align="left"></a>HelloWord.vue<picture><img src="imgs/window-icons-holdplace.png" width=40px align="right"></picture</p>
