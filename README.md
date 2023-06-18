@@ -1,7 +1,7 @@
 
 <div align="flex">
 <pre>
-<p align="center"><a href="#"><img src="imgs/window-icons.png" width=40px align="left"></a>HelloWord.vue<picture><img src="imgs/window-icons-holdplace.png" width=40px align="right"></picture</p>
+<p align="center"><a href="#"><img src="window-icons.png" width=40px align="left"></a>HelloWord.vue
 
 ```vue
 <script setup>
