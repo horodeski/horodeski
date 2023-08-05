@@ -1,4 +1,4 @@
-<img align='left' src="https://github-stats-alpha.vercel.app/api?username=horodeski&cc=000&tc=fff&ic=fff&bc=000">
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=horodeski&theme=dark&show_icons=true&rank_icon=github">
 
 
 ### Olá, tudo bem?
@@ -7,7 +7,7 @@
 
 <hr>
 <div>
-<img src="https://img.shields.io/badge/VueJs-000000?style=for-the-badge&logo=vue.js&logoColor=white" > 
-<img src="https://img.shields.io/badge/django-000000?style=for-the-badge&logo=django&logoColor=white" > 
+<img src="https://img.shields.io/badge/VueJs-35495E?style=for-the-badge&logo=vue.js&logoColor=white" > 
+<img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white" > 
   
 </div>
