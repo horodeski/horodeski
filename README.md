@@ -10,9 +10,11 @@ const developer = [
     Name: 'Geovana Sophia Horodeski',
     Location: 'Araquari, SC',
     Programming: ['Vue', 'Django'],
+    Learning: ['Java'],
     SocialMedia: {
       Twitter: 'https://twitter.com/_horodeski',
       GitHub: 'https://github.com/horodeski',
+      Linkedin: 'https://www.linkedin.com/in/geovana-sophia-horodeski-3940a4264/'
     },
   },
 ];
