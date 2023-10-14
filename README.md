@@ -10,7 +10,7 @@ const developer = [
     Name: 'Geovana Sophia Horodeski',
     Location: 'Araquari, SC',
     Programming: ['Vue', 'Django'],
-    Learning: ['Java'],
+    Learning: ['Java', 'React native'],
     SocialMedia: {
       Twitter: 'https://twitter.com/_horodeski',
       GitHub: 'https://github.com/horodeski',
