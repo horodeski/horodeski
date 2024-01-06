@@ -14,7 +14,7 @@ const developer = [
     SocialMedia: {
       Twitter: 'https://twitter.com/_horodeski',
       GitHub: 'https://github.com/horodeski',
-      Linkedin: 'https://www.linkedin.com/in/geovana-sophia-horodeski-3940a4264/'
+      Linkedin: 'https://www.linkedin.com/in/horodeski/'
     },
   },
 ];
