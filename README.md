@@ -1,1 +1,3 @@
-### A cada amanhecer, um novo aprendizado, pra ser melhor que ontem, é só ter mais cuidado.
+<div>
+ <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">
+</div>
